@@ -1,6 +1,6 @@
 {
   "name": "@ezmidwestern/chonky",
-  "version": "3.3.2",
+  "version": "3.0.0",
   "description": "A File Browser component for React",
   "license": "MIT",
   "main": "dist/index.js",
@@ -55,8 +55,8 @@
     "react-is": "^17.0.1",
     "size-limit": "^4.10.1",
     "tsdx": "^0.14.1",
-    "tslib": "^2.6.2",
-    "typescript": "^5.4.4"
+    "tslib": "^2.1.0",
+    "typescript": "^4.2.3"
   },
   "dependencies": {
     "@material-ui/core": "4.11.3",
